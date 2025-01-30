@@ -1,0 +1,1 @@
+/opt/homebrew/bin/autossh -M 0 -D 1080 -C -q -N aws-proxy-server -o ServerAliveInterval=60 -o ServerAliveCountMax=3
